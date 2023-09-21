@@ -45,8 +45,6 @@ echo "DOUBLE, ${partition}, ${allocation_policy}, \n cores,size,time in seconds,
 
 for size in {2000..20000..1000}
 do
-
-
 	for j in {1..5..1}
 	do
 		#echo -n "${cores}," >> mkl.csv

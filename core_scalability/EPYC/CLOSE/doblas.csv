@@ -1,4 +1,4 @@
-DOUBLE, , close, cores,size,time in seconds,GFLOPS
+DOUBLE, , close, - cores,size,time in seconds,GFLOPS
 1,11000,55.773469,47.728787
 1,11000,55.695759,47.795381
 1,11000,55.755595,47.744087
