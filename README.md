@@ -27,4 +27,5 @@ core_scalability has the same structure, but NUMA_SPREAD folder has not been pro
 
 
 NOTEBOOK/: contains the jupyter notebooks used to draw the graphs used to compare performances of different scenarios for CORE SCALABILITY
+
 NOTEBOOK_SIZE/: contains the jupyter notebooks used to draw the graphs used to compare performances of different scenarios for SIZE SCALABILITY
